@@ -1,8 +1,8 @@
-# Hey there, I'm Aidan Head 👋
+# Hey there, I'm Aidan Head
 
 I'm a Computer Science student from North Texas pursuing an **Associate of Science in Computer Science** at Grayson College (4.0 GPA), graduating in Spring 2027 before transferring to **Southeastern Oklahoma State University** in Fall 2027.
 
-I build tools in **C++** and **Python** to turn networking and cybersecurity concepts into workable code; from authentication log parsers to automated Linux services. I'm currently looking for real-world IT and cybersecurity experience as I work toward becoming a **Cybersecurity Analyst**.
+I build tools in **C++** to turn networking and cybersecurity concepts into workable code; from authentication log parsers to automated Linux services. I'm currently looking for real-world IT and cybersecurity experience as I work toward becoming a **Cybersecurity Analyst**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-head/)
 
@@ -10,9 +10,8 @@ I build tools in **C++** and **Python** to turn networking and cybersecurity con
 
 ### Languages, Tools & Certifications
 
-**Languages & Scripting**  
+**Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Systems & Security**  
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
