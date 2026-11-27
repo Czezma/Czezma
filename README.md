@@ -14,7 +14,7 @@ I build tools in **C++** to turn networking and cybersecurity concepts into work
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Systems & Security**  
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/7c49d32e-4b3b-40eb-a9da-cef19e0e2e4f)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
